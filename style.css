@@ -28,13 +28,13 @@ h1{
     color: white;
 }
 .s1-bg{
-    background-image: url(/images/s1\ bg_.jpg);
+    background-image: url(images/s1\ bg_.jpg);
     padding: 0;
     background-repeat: no-repeat;
 
 }
 .s2-bg{
-    background-image: url(/images/s2\ bg_.jpg);
+    background-image: url(images/s2\ bg_.jpg);
     padding: 0;
     background-repeat: no-repeat;
 
@@ -50,7 +50,7 @@ h1{
 
 }
 .last-bg{
-    background-image: url(/images/header_bg.png);
+    background-image: url(images/header_bg.png);
     padding: 0;
     background-repeat: no-repeat;
     background-position: right;
